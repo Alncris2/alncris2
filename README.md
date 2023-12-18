@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Cristian</h1>
 
 <h3 align="center">A young-dumb 🤓 fullstack developer from brazil 🇮🇳</h3>
+---
 [![](https://visitcount.itsvg.in/api?id=alncri2&icon=0&color=10)](https://visitcount.itsvg.in)
 
 
