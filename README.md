@@ -2,7 +2,7 @@
 
 <h3 align="center">A young-dumb 🤓 fullstack developer from brazil 🇮🇳</h3>
 ---
-[![](https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10)](https://visitcount.itsvg.in)<br/>
 
 
 # 💫 About Me:
