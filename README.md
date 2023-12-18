@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alan Cristian</h1>
 
 <h3 align="center">A young-dumb 🤓 fullstack developer from brazil 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=alncris2 alt=alncris2/> </p>
+<p align="left"> 
+[![](https://visitcount.itsvg.in/api?id=alncri2&icon=0&color=10)](https://visitcount.itsvg.in) </p>
 
 
 # 💫 About Me:
@@ -22,8 +23,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=alncri2&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alncri2&icon=0&color=10)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alncris2) 
 
