@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Cristian</h1>
 
 <h3 align="center">A young-dumb 🤓 fullstack developer from brazil 🇮🇳</h3>
-<p align="left"> <img src=[https://komarev.com/ghpvc/?username=rahuldkjain](https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10) alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10 alt=rahuldkjain/> </p>
 
 
 # 💫 About Me:
