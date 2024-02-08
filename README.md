@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'>, sou Alan Cristian</h1>
+<h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
 
 <h3 align="center">A young dumb and broke 🤓 fullstack developer from Brazil 🇮🇳</h3>
 <p align="left"> <img src=https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10 alt=alncris2/> </p>
