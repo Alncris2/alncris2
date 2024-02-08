@@ -8,10 +8,10 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-📚 Graduando Ánalise e desenvolvimento de sistemas
-🔭 Atualmente estou trabalhando na N'Soluções
-🌱 Atualmente estou aprendendo React, Inercia, Typescript dentro do Laravel
-⚡ Fun fact: FullStack só que um pouquinho mais para o lado do backend.
+- 📚 Graduando Ánalise e desenvolvimento de sistemas.
+- 🔭 Atualmente estou trabalhando na N'Soluções.
+- 🌱 Atualmente estou aprendendo React, Inercia, Typescript dentro do Laravel.
+- ⚡ Fun fact: FullStack só que um pouquinho mais para o lado do backend.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alncris2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alncris2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alncris2) 
