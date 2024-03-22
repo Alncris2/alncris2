@@ -1,6 +1,8 @@
 <h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
 
-### A young dumb and broke 🤓 fullstack developer from Brazil 🇮🇳
+<div align="center">
+    <h3>A young dumb and broke 🤓 fullstack developer from Brazil 🇮🇳</h3>
+</div>
 ![visitors](https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10)
 
 <div align="center">
