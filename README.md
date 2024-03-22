@@ -3,7 +3,7 @@
 <div align="center">
     <h3>A young dumb and broke 🤓 fullstack developer from Brazil 🇮🇳</h3>
 </div>
-![visitors](https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10)
+<p align="left"> <img src=https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10 alt=alncris2/> </p>
 
 <div align="center">
     <img src="/assets/banner.png" width="100%" height="250px"/>
