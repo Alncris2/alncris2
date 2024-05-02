@@ -3,7 +3,7 @@
 <div align="center">
     <h3>A young dumb and broke 🤓 fullstack developer from Brazil 🇮🇳</h3>
 </div>
-<p align="left"> <img src=https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=10 alt=alncris2/> </p>
+<p align="left"> <img src=https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=11 alt=alncris2/> </p>
 
 <div align="center">
     <img src="/assets/banner.png" width="100%" height="250px"/>
@@ -54,7 +54,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alncris2&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alncris2&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alncris2&layout=compact&theme=dark" alt="Top Languages" width ='40%' />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alncris2&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alncris2&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alncris2&layout=compact&theme=dracula" alt="Top Languages" width ='40%' />
 </div>
