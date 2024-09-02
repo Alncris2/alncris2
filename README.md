@@ -1,7 +1,7 @@
 <h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
 
 <div align="center">
-    <h3>A young dumb and broke 🤓 fullstack developer from Brazil 🇮🇳</h3>
+    <h3>A young dumb and broke 🤓 fullstack developer from Brazil</h3>
 </div>
 <p align="left"> <img src=https://visitcount.itsvg.in/api?id=alncris2&icon=0&color=11 alt=alncris2/> </p>
 
@@ -19,7 +19,7 @@
 </div>
 
 - 📚 Graduando Ánalise e desenvolvimento de sistemas.
-- 🔭 Atualmente estou trabalhando na N'Soluções.
+- 🔭 Atualmente estou trabalhando na Ravows.
 - 🌱 Atualmente estou aprendendo React, Inercia, Typescript dentro do Laravel.
 - 🖥️ Trabalho com as linguagens PHP, React e framework Laravel
 - ⚡ Fun fact: FullStack só que um pouquinho mais para o lado do backend.
