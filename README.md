@@ -13,13 +13,13 @@
 
 <div>
     <article>
-        Meu nome é Alan Cristian, sou um desenvolvedor fullstack de 22 anos, atualmente moro em Uberaba-MG, Brasil. Sou apaixonado por tecnologia e programação, e estou sempre disposto a aprender algo novo. 
+        Meu nome é Alan Cristian, sou um desenvolvedor fullstack de 24 anos, atualmente moro em Uberaba-MG, Brasil. Sou apaixonado por tecnologia e programação, e estou sempre disposto a aprender algo novo. 
     </article><br><br>
     <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 </div>
 
 - 📚 Graduando Ánalise e desenvolvimento de sistemas.
-- 🔭 Atualmente estou trabalhando na Ravows.
+- 🔭 Atualmente estou trabalhando na Codiube.
 - 🌱 Atualmente estou aprendendo React, Inercia, Typescript dentro do Laravel.
 - 🖥️ Trabalho com as linguagens PHP, React e framework Laravel
 - ⚡ Fun fact: FullStack só que um pouquinho mais para o lado do backend.
@@ -40,13 +40,11 @@
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeigniter.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'>  
-    <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>  
-    <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
     <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
