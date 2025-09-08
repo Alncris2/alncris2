@@ -19,7 +19,7 @@
 </div>
 
 - 📚 Graduando Ánalise e desenvolvimento de sistemas.
-- 🔭 Atualmente estou trabalhando na Codiube.
+- 🔭 Atualmente estou trabalhando na Codiub.
 - 🌱 Atualmente estou aprendendo React, Inercia, Typescript dentro do Laravel.
 - 🖥️ Trabalho com as linguagens PHP, React e framework Laravel
 - ⚡ Fun fact: FullStack só que um pouquinho mais para o lado do backend.
